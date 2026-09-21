@@ -1026,7 +1026,7 @@ h1, h2, h3, h4 {
     align-items: center;
     text-align: center;
     overflow: hidden;
-    background: url('/imagens/rostosehistorias.jpg') center/cover no-repeat;
+    background: url('rostosehistorias.jpg') center/cover no-repeat;
 }
 
 /* Reduzida a opacidade para a imagem ficar mais clara e visível */
